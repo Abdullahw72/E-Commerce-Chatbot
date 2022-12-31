@@ -5,7 +5,8 @@ Following are the details about the processing behind the project:
 ### Text Pre- Processing with NLTK
 
 <li>Converting the entire text into uppercase or lowercase, so that the algorithm does not treat the same words in different cases as different</li>
-<li>Tokenization: Tokenization is just the term used to describe the process of converting the normal text strings into a list of tokens i.e words that we actually want. Sentence tokenizer can be used to find the list of sentences and Word tokenizer can be used to find the list of words in strings.</li>
+<li>Tokenization: Tokenization is just the term used to describe the process of converting the normal text strings into a list of tokens i.e words that we actually want. 
+Sentence tokenizer can be used to find the list of sentences and Word tokenizer can be used to find the list of words in strings.</li>
 
 The NLTK data package includes a pre-trained Punkt tokenizer for English.
 
