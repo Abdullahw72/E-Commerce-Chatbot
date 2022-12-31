@@ -45,7 +45,3 @@ Please refer to the uploaded project report for more information.
 
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdullahw72&theme=dark&background=000000)](https://git.io/streak-stats)
