@@ -41,3 +41,11 @@ STEPS
 [+] Predict the response  
 
 Please refer to the uploaded project report for more information.
+
+
+
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Abdullahw72
